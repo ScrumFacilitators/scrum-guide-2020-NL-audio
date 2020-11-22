@@ -1,5 +1,4 @@
-# scrum-guide-2020-NL-audio
-
+# Scrum Guide 2020 Nederlandse vertaling (NL) Gesproken Audio
 De Scrum Gids. De definitieve gids voor Scrum: de regels van het spel. Tweeduizendtwintig. Ontwikkeld door de bedenkers van Scrum: Ken Schwaber en Jeff Sutherland. 
 
 Dit is de Nederlandse Audio versie, ingesproken door Sjoerd Kranendonk van Scrum Facilitators. De oorspronkelijke gids en andere vertalingen zijn beschikbaar op scrumguides.org.
