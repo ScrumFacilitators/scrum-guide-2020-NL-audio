@@ -1,39 +1,36 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Scrum Guide 2020 NL Audio_data" version="1.3.0" audacityversion="2.4.2" sel0="1046.1053967600" sel1="1605.5205441523" vpos="0" h="1019.0773695483" zoom="10.7666015632" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Scrum Guide 2020 NL Audio_data" version="1.3.0" audacityversion="2.4.2" sel0="2474.0397277303" sel1="2474.0397277303" vpos="496" h="2398.1569159439" zoom="10.7666015632" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ARTIST" value="Sjoerd Kranendonk"/>
-		<tag name="TITLE" value="Scrum Gids 2020 - deel 3/4 - Scrum Gebeurtenissen"/>
+		<tag name="TITLE" value="Scrum Gids 2020 - deel 4/4 - Scrum Artefacten, Eindnoot &amp; Wijzigingen"/>
 		<tag name="COMMENTS" value="www.scrumfacilitators.nl - © 2020 Ken Schwaber and Jeff Sutherland - This publication is offered for license under the Attribution Share-Alike 4.0 license of Creative Commons."/>
 		<tag name="ALBUM" value="Scrum Gids 2020"/>
-		<tag name="TRACKNUMBER" value="3"/>
+		<tag name="TRACKNUMBER" value="4"/>
 		<tag name="YEAR" value="2020"/>
 		<tag name="GENRE" value="Audio book"/>
 	</tags>
-	<labeltrack name="Label Track" isSelected="0" height="63" minimized="0" numlabels="23">
-		<label t="11.5170975049" t1="11.5170975049" title="Start voorblad"/>
-		<label t="68.8239455738" t1="68.8239455738" title="Eind voorblad"/>
-		<label t="72.7248979545" t1="72.7248979545" title="Start Doel Scrum Gids"/>
-		<label t="199.9702494201" t1="199.9702494201" title="Eind Doel van Scrum gids"/>
-		<label t="205.7287981726" t1="205.7287981726" title="Start Scrum Definitie"/>
-		<label t="304.8315646060" t1="304.8315646060" title="Eind Scrum Definitie"/>
-		<label t="308.3609977124" t1="308.3609977124" title="Start Scrum Theorie"/>
-		<label t="436.6280271825" t1="436.6280271825" title="Scrum Theorie: aanpassing"/>
-		<label t="471.8294784274" t1="471.8294784274" title="eind Scrum Theorie"/>
-		<label t="474.9873922594" t1="474.9873922594" title="Start Scrum Waarden"/>
-		<label t="575.2975963345" t1="575.2975963345" title="eind Scrum Waarden"/>
-		<label t="577.6195917992" t1="577.6195917992" title="Start Scrum Team"/>
-		<label t="713.1312471192" t1="713.1312471192" title="Scrum Team: developers"/>
-		<label t="757.0634013113" t1="757.0634013113" title="Scrum Team: Product Owner"/>
-		<label t="848.6429024392" t1="848.6429024392" title="Scrum Team: Scrum Master"/>
-		<label t="990.0059863302" t1="990.0059863302" title="eind Scrum Team"/>
-		<label t="1046.1053967574" t1="1046.1053967574" title="start Scrum Gebeurtenissen"/>
-		<label t="1232.6080724822" t1="1232.6080724822" title="Scrum Gebeurtenissen: Sprint Planning"/>
-		<label t="1391.8969613608" t1="1391.8969613608" title="Scrum Gebeurtenissen: eind Sprint Planning"/>
-		<label t="1395.7979137415" t1="1395.7979137415" title="Scrum Gebeurtenissen: Daily Scrum"/>
-		<label t="1471.6807255279" t1="1471.6807255279" title="Scrum Gebeurtenissen: Sprint Review"/>
-		<label t="1533.9102039819" t1="1533.9102039819" title="Scrum Gebeurtenissen: Sprint Retrospective"/>
-		<label t="1604.5917459274" t1="1604.5917459274" title="eind Scrum Gebeurtenissen"/>
+	<labeltrack name="Label Track" isSelected="0" height="141" minimized="0" numlabels="20">
+		<label t="11.1455782306" t1="71.3317006756" title="Titelblad"/>
+		<label t="72.7248979545" t1="202.1064852476" title="Doel Scrum Gids"/>
+		<label t="205.7287981726" t1="306.1318820663" title="Scrum Definitie"/>
+		<label t="308.3609977124" t1="472.5725169761" title="Scrum Theorie"/>
+		<label t="474.9873922594" t1="574.3687981486" title="Start Scrum Waarden"/>
+		<label t="577.6195917992" t1="990.4703854231" title="Scrum Team"/>
+		<label t="713.1312471192" t1="757.1562811299" title="Scrum Team: developers"/>
+		<label t="757.0634013113" t1="848.5500226206" title="Scrum Team: Product Owner"/>
+		<label t="848.6429024392" t1="991.2134239718" title="Scrum Team: Scrum Master"/>
+		<label t="1046.1053967574" t1="1605.7063037505" title="Scrum Gebeurtenissen"/>
+		<label t="1232.6080724822" t1="1391.7112017236" title="Scrum Gebeurtenissen: Sprint Planning"/>
+		<label t="1394.6833559184" t1="1471.2163264350" title="Scrum Gebeurtenissen: Daily Scrum"/>
+		<label t="1471.6807255279" t1="1533.6315645261" title="Scrum Gebeurtenissen: Sprint Review"/>
+		<label t="1533.9102039819" t1="1604.9632652018" title="Scrum Gebeurtenissen: Sprint Retrospective"/>
+		<label t="1610.1645350427" t1="2058.9598184602" title="Scrum Artefacten"/>
+		<label t="1671.0936960365" t1="1799.6393649624" title="Product Backlog"/>
+		<label t="1801.8684806085" t1="1911.0951472680" title="Sprint Backlog"/>
+		<label t="1914.0673014629" t1="2057.4737413628" title="Increment"/>
+		<label t="2061.9319726551" t1="2238.0321086980" title="Eindnoot"/>
+		<label t="2241.7473014416" t1="2448.3120179814" title="Wijzigingen tov 2017"/>
 	</labeltrack>
 	<wavetrack name="first recording session (up till and including roles)" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
@@ -1930,7 +1927,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Scrum Gebeurtenissen" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Scrum Gebeurtenissen" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="1046.10539676" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="24670208">
 				<waveblock start="0">
@@ -2237,15 +2234,2579 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Scrum Artifacts" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Scrum Artifacts" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="6.68734694" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90587136">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="10747904">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11010048">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11272192">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11534336">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11796480">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12058624">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12320768">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12582912">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12845056">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13107200">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13369344">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13631488">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13893632">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14155776">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14417920">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14680064">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14942208">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15204352">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15466496">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15728640">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15990784">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="16252928">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="16515072">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="16777216">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17039360">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17301504">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17563648">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17825792">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18087936">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18350080">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18612224">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18874368">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19136512">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19398656">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19660800">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19922944">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20185088">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20447232">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20709376">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20971520">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="21233664">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="21495808">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="21757952">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22020096">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22282240">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22544384">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22806528">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23068672">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23330816">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23592960">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23855104">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24117248">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24379392">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24641536">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24903680">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25165824">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25427968">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25690112">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25952256">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="26214400">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="26476544">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="26738688">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27000832">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27262976">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27525120">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27787264">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28049408">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28311552">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28573696">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28835840">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29097984">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29360128">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29622272">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29884416">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30146560">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30408704">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30670848">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30932992">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31195136">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31457280">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31719424">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31981568">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="32243712">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="32505856">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="32768000">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33030144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33292288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33554432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33816576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34078720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34340864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34603008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34865152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35127296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35389440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35651584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35913728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36175872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36438016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36700160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36962304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="37224448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="37486592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="37748736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38010880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38273024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38535168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38797312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39059456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39321600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39583744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39845888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40108032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40370176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40632320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40894464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41156608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41418752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41680896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41943040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42205184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42467328">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42729472">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42991616">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="43253760">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="43515904">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="43778048">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44040192">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44302336">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44564480">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44826624">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45088768">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45350912">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45613056">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45875200">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46137344">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46399488">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46661632">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46923776">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47185920">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47448064">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47710208">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47972352">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="48234496">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="48496640">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="48758784">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49020928">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49283072">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49545216">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49807360">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50069504">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50331648">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50593792">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50855936">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51118080">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51380224">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51642368">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51904512">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52166656">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52428800">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52690944">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52953088">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="53215232">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="53477376">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="53739520">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54001664">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54263808">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54525952">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54788096">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55050240">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55312384">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55574528">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55836672">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56098816">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56360960">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56623104">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56885248">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57147392">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57409536">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57671680">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57933824">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58195968">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58458112">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58720256">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58982400">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="59244544">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="59506688">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="59768832">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60030976">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60293120">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60555264">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60817408">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61079552">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61341696">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61603840">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61865984">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62128128">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62390272">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62652416">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62914560">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63176704">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63438848">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63700992">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63963136">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="64225280">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="64487424">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="64749568">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65011712">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65273856">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65536000">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65798144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66060288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66322432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66584576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66846720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67108864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67371008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67633152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67895296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68157440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68419584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68681728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68943872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69206016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69468160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69730304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69992448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="70254592">
+					<simpleblockfile filename="eff2295e.au" len="262144" min="0.0" max="0.000016" rms="0.000008"/>
+				</waveblock>
+				<waveblock start="70516736">
+					<simpleblockfile filename="eff22c25.au" len="179200" min="0.000016" max="0.000016" rms="0.000016"/>
+				</waveblock>
+				<waveblock start="70695936">
+					<simpleblockfile filename="eff22821.au" len="179200" min="0.000004" max="0.000028" rms="0.000016"/>
+				</waveblock>
+				<waveblock start="70875136">
+					<simpleblockfile filename="eff2233f.au" len="181248" min="-0.511589" max="0.545116" rms="0.045269"/>
+				</waveblock>
+				<waveblock start="71056384">
+					<simpleblockfile filename="eff2254d.au" len="181248" min="-0.348433" max="0.399329" rms="0.058471"/>
+				</waveblock>
+				<waveblock start="71237632">
+					<simpleblockfile filename="eff22c1a.au" len="262144" min="-0.419078" max="0.507884" rms="0.063935"/>
+				</waveblock>
+				<waveblock start="71499776">
+					<simpleblockfile filename="eff22c76.au" len="262144" min="-0.562482" max="0.580743" rms="0.061685"/>
+				</waveblock>
+				<waveblock start="71761920">
+					<simpleblockfile filename="eff22f58.au" len="262144" min="-0.372337" max="0.400076" rms="0.03929"/>
+				</waveblock>
+				<waveblock start="72024064">
+					<simpleblockfile filename="eff227a9.au" len="262144" min="-0.664887" max="0.826953" rms="0.073845"/>
+				</waveblock>
+				<waveblock start="72286208">
+					<simpleblockfile filename="eff22b46.au" len="262144" min="-0.446028" max="0.424738" rms="0.055975"/>
+				</waveblock>
+				<waveblock start="72548352">
+					<simpleblockfile filename="eff2212a.au" len="262144" min="-0.406963" max="0.318882" rms="0.043208"/>
+				</waveblock>
+				<waveblock start="72810496">
+					<simpleblockfile filename="eff222f5.au" len="262144" min="-0.515406" max="0.426295" rms="0.05671"/>
+				</waveblock>
+				<waveblock start="73072640">
+					<simpleblockfile filename="eff22299.au" len="262144" min="-0.30043" max="0.348918" rms="0.057262"/>
+				</waveblock>
+				<waveblock start="73334784">
+					<simpleblockfile filename="eff22985.au" len="262144" min="-0.410817" max="0.342285" rms="0.028397"/>
+				</waveblock>
+				<waveblock start="73596928">
+					<simpleblockfile filename="eff229b9.au" len="262144" min="-0.410779" max="0.412781" rms="0.068583"/>
+				</waveblock>
+				<waveblock start="73859072">
+					<simpleblockfile filename="eff22125.au" len="262144" min="-0.48885" max="0.526873" rms="0.057267"/>
+				</waveblock>
+				<waveblock start="74121216">
+					<simpleblockfile filename="eff22978.au" len="262144" min="-0.441927" max="0.423729" rms="0.054872"/>
+				</waveblock>
+				<waveblock start="74383360">
+					<simpleblockfile filename="eff22e36.au" len="262144" min="-0.370866" max="0.456401" rms="0.052004"/>
+				</waveblock>
+				<waveblock start="74645504">
+					<simpleblockfile filename="eff22bcf.au" len="262144" min="-0.482525" max="0.52804" rms="0.062229"/>
+				</waveblock>
+				<waveblock start="74907648">
+					<simpleblockfile filename="eff2281a.au" len="262144" min="-0.404829" max="0.365689" rms="0.056225"/>
+				</waveblock>
+				<waveblock start="75169792">
+					<simpleblockfile filename="eff22af9.au" len="262144" min="-0.31899" max="0.263899" rms="0.04907"/>
+				</waveblock>
+				<waveblock start="75431936">
+					<simpleblockfile filename="eff22e57.au" len="262144" min="-0.393834" max="0.290627" rms="0.053996"/>
+				</waveblock>
+				<waveblock start="75694080">
+					<simpleblockfile filename="eff22419.au" len="262144" min="-0.286002" max="0.263721" rms="0.034004"/>
+				</waveblock>
+				<waveblock start="75956224">
+					<simpleblockfile filename="eff2210e.au" len="262144" min="-0.392454" max="0.383428" rms="0.064809"/>
+				</waveblock>
+				<waveblock start="76218368">
+					<simpleblockfile filename="eff221b1.au" len="262144" min="-0.548881" max="0.489503" rms="0.075125"/>
+				</waveblock>
+				<waveblock start="76480512">
+					<simpleblockfile filename="eff223cb.au" len="262144" min="-0.580026" max="0.431426" rms="0.051727"/>
+				</waveblock>
+				<waveblock start="76742656">
+					<simpleblockfile filename="eff220c2.au" len="262144" min="-0.515517" max="0.423767" rms="0.06068"/>
+				</waveblock>
+				<waveblock start="77004800">
+					<simpleblockfile filename="eff229a0.au" len="262144" min="-0.314867" max="0.30257" rms="0.051607"/>
+				</waveblock>
+				<waveblock start="77266944">
+					<simpleblockfile filename="eff224b2.au" len="262144" min="-0.401111" max="0.362143" rms="0.055859"/>
+				</waveblock>
+				<waveblock start="77529088">
+					<simpleblockfile filename="eff223df.au" len="262144" min="-0.475216" max="0.599557" rms="0.060868"/>
+				</waveblock>
+				<waveblock start="77791232">
+					<simpleblockfile filename="eff22ace.au" len="262144" min="-0.465891" max="0.370335" rms="0.046895"/>
+				</waveblock>
+				<waveblock start="78053376">
+					<simpleblockfile filename="eff22f84.au" len="262144" min="-0.435533" max="0.399094" rms="0.064269"/>
+				</waveblock>
+				<waveblock start="78315520">
+					<simpleblockfile filename="eff222c2.au" len="262144" min="-0.421625" max="0.437093" rms="0.052262"/>
+				</waveblock>
+				<waveblock start="78577664">
+					<simpleblockfile filename="eff22fa0.au" len="262144" min="-0.448538" max="0.36568" rms="0.054477"/>
+				</waveblock>
+				<waveblock start="78839808">
+					<simpleblockfile filename="eff22c2e.au" len="262144" min="-0.342083" max="0.352705" rms="0.061572"/>
+				</waveblock>
+				<waveblock start="79101952">
+					<simpleblockfile filename="eff22ef9.au" len="262144" min="-0.431423" max="0.290486" rms="0.027426"/>
+				</waveblock>
+				<waveblock start="79364096">
+					<simpleblockfile filename="eff22d7b.au" len="262144" min="-0.531988" max="0.445625" rms="0.064002"/>
+				</waveblock>
+				<waveblock start="79626240">
+					<simpleblockfile filename="eff22eda.au" len="262144" min="-0.589933" max="0.600944" rms="0.071608"/>
+				</waveblock>
+				<waveblock start="79888384">
+					<simpleblockfile filename="eff2204e.au" len="262144" min="-0.435214" max="0.551475" rms="0.053079"/>
+				</waveblock>
+				<waveblock start="80150528">
+					<simpleblockfile filename="eff22297.au" len="262144" min="-0.533621" max="0.531787" rms="0.078786"/>
+				</waveblock>
+				<waveblock start="80412672">
+					<simpleblockfile filename="eff22479.au" len="262144" min="-0.625528" max="0.567992" rms="0.086621"/>
+				</waveblock>
+				<waveblock start="80674816">
+					<simpleblockfile filename="eff22f89.au" len="262144" min="-0.733481" max="0.762945" rms="0.068948"/>
+				</waveblock>
+				<waveblock start="80936960">
+					<simpleblockfile filename="eff22ed9.au" len="262144" min="-0.472879" max="0.372653" rms="0.069659"/>
+				</waveblock>
+				<waveblock start="81199104">
+					<simpleblockfile filename="eff22be7.au" len="262144" min="-0.54512" max="0.451903" rms="0.077489"/>
+				</waveblock>
+				<waveblock start="81461248">
+					<simpleblockfile filename="eff22c3a.au" len="262144" min="-0.50052" max="0.403827" rms="0.045893"/>
+				</waveblock>
+				<waveblock start="81723392">
+					<simpleblockfile filename="eff220a6.au" len="262144" min="-0.424497" max="0.386072" rms="0.059154"/>
+				</waveblock>
+				<waveblock start="81985536">
+					<simpleblockfile filename="eff22b21.au" len="262144" min="-0.404166" max="0.326193" rms="0.053401"/>
+				</waveblock>
+				<waveblock start="82247680">
+					<simpleblockfile filename="eff22483.au" len="262144" min="-0.555719" max="0.617675" rms="0.072314"/>
+				</waveblock>
+				<waveblock start="82509824">
+					<simpleblockfile filename="eff22d2e.au" len="262144" min="-0.3767" max="0.359343" rms="0.069159"/>
+				</waveblock>
+				<waveblock start="82771968">
+					<simpleblockfile filename="eff22ec7.au" len="262144" min="-0.48016" max="0.304938" rms="0.049885"/>
+				</waveblock>
+				<waveblock start="83034112">
+					<simpleblockfile filename="eff22e02.au" len="262144" min="-0.484876" max="0.468245" rms="0.059575"/>
+				</waveblock>
+				<waveblock start="83296256">
+					<simpleblockfile filename="eff223fd.au" len="262144" min="-0.519485" max="0.489618" rms="0.071522"/>
+				</waveblock>
+				<waveblock start="83558400">
+					<simpleblockfile filename="eff22380.au" len="182272" min="-0.42429" max="0.333803" rms="0.069269"/>
+				</waveblock>
+				<waveblock start="83740672">
+					<simpleblockfile filename="eff223fc.au" len="182272" min="-0.411376" max="0.385462" rms="0.0698"/>
+				</waveblock>
+				<waveblock start="83922944">
+					<simpleblockfile filename="eff22b8b.au" len="159744" min="-0.423371" max="0.429456" rms="0.060213"/>
+				</waveblock>
+				<waveblock start="84082688">
+					<simpleblockfile filename="eff22e5c.au" len="159744" min="-0.45844" max="0.28159" rms="0.035489"/>
+				</waveblock>
+				<waveblock start="84242432">
+					<simpleblockfile filename="eff225d2.au" len="262144" min="-0.4196" max="0.397326" rms="0.059342"/>
+				</waveblock>
+				<waveblock start="84504576">
+					<simpleblockfile filename="eff225e3.au" len="262144" min="-0.421206" max="0.46988" rms="0.060236"/>
+				</waveblock>
+				<waveblock start="84766720">
+					<simpleblockfile filename="eff226dc.au" len="262144" min="-0.418987" max="0.515402" rms="0.065131"/>
+				</waveblock>
+				<waveblock start="85028864">
+					<simpleblockfile filename="eff22f6b.au" len="262144" min="-0.63698" max="0.445085" rms="0.069527"/>
+				</waveblock>
+				<waveblock start="85291008">
+					<simpleblockfile filename="eff226e4.au" len="262144" min="-0.385211" max="0.305288" rms="0.05919"/>
+				</waveblock>
+				<waveblock start="85553152">
+					<simpleblockfile filename="eff22ed8.au" len="262144" min="-0.474706" max="0.548948" rms="0.065678"/>
+				</waveblock>
+				<waveblock start="85815296">
+					<simpleblockfile filename="eff224cb.au" len="262144" min="-0.502824" max="0.33586" rms="0.063971"/>
+				</waveblock>
+				<waveblock start="86077440">
+					<simpleblockfile filename="eff223f2.au" len="262144" min="-0.560245" max="0.545578" rms="0.04845"/>
+				</waveblock>
+				<waveblock start="86339584">
+					<simpleblockfile filename="eff22a64.au" len="262144" min="-0.525505" max="0.389965" rms="0.068096"/>
+				</waveblock>
+				<waveblock start="86601728">
+					<simpleblockfile filename="eff22b0a.au" len="262144" min="-0.510546" max="0.392326" rms="0.045879"/>
+				</waveblock>
+				<waveblock start="86863872">
+					<simpleblockfile filename="eff227c8.au" len="262144" min="-0.891251" max="0.691908" rms="0.075544"/>
+				</waveblock>
+				<waveblock start="87126016">
+					<simpleblockfile filename="eff2252e.au" len="262144" min="-0.436063" max="0.357195" rms="0.054769"/>
+				</waveblock>
+				<waveblock start="87388160">
+					<simpleblockfile filename="eff22aea.au" len="262144" min="-0.534468" max="0.382852" rms="0.074242"/>
+				</waveblock>
+				<waveblock start="87650304">
+					<simpleblockfile filename="eff22df1.au" len="262144" min="-0.697449" max="0.510094" rms="0.05963"/>
+				</waveblock>
+				<waveblock start="87912448">
+					<simpleblockfile filename="eff22428.au" len="262144" min="-0.604752" max="0.670341" rms="0.066417"/>
+				</waveblock>
+				<waveblock start="88174592">
+					<simpleblockfile filename="eff22bea.au" len="262144" min="-0.544263" max="0.435678" rms="0.064584"/>
+				</waveblock>
+				<waveblock start="88436736">
+					<simpleblockfile filename="eff22c07.au" len="262144" min="-0.511305" max="0.655029" rms="0.078387"/>
+				</waveblock>
+				<waveblock start="88698880">
+					<simpleblockfile filename="eff229d6.au" len="262144" min="-0.555287" max="0.33595" rms="0.040809"/>
+				</waveblock>
+				<waveblock start="88961024">
+					<simpleblockfile filename="eff22b5e.au" len="262144" min="-0.441855" max="0.375434" rms="0.060281"/>
+				</waveblock>
+				<waveblock start="89223168">
+					<simpleblockfile filename="eff223f4.au" len="262144" min="-0.501877" max="0.51973" rms="0.05498"/>
+				</waveblock>
+				<waveblock start="89485312">
+					<simpleblockfile filename="eff22026.au" len="262144" min="-0.379872" max="0.288872" rms="0.062267"/>
+				</waveblock>
+				<waveblock start="89747456">
+					<simpleblockfile filename="eff229ca.au" len="262144" min="-0.404666" max="0.362005" rms="0.045756"/>
+				</waveblock>
+				<waveblock start="90009600">
+					<simpleblockfile filename="eff22ed5.au" len="262144" min="-0.464649" max="0.345594" rms="0.062449"/>
+				</waveblock>
+				<waveblock start="90271744">
+					<simpleblockfile filename="eff2201e.au" len="184320" min="-0.450673" max="0.480038" rms="0.078096"/>
+				</waveblock>
+				<waveblock start="90456064">
+					<simpleblockfile filename="eff22aac.au" len="131072" min="-0.192132" max="0.142358" rms="0.012289"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Eindnoot" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="0"/>
 			<envelope numpoints="0"/>
 		</waveclip>
+		<waveclip offset="2063.78956916" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7811072">
+				<waveblock start="0">
+					<simpleblockfile filename="eff223d3.au" len="155648" min="-0.602799" max="0.425086" rms="0.063006"/>
+				</waveblock>
+				<waveblock start="155648">
+					<simpleblockfile filename="eff22cf1.au" len="262144" min="-0.632901" max="0.502405" rms="0.07391"/>
+				</waveblock>
+				<waveblock start="417792">
+					<simpleblockfile filename="eff2228d.au" len="262144" min="-0.46898" max="0.44281" rms="0.069959"/>
+				</waveblock>
+				<waveblock start="679936">
+					<simpleblockfile filename="eff222f8.au" len="262144" min="-0.504191" max="0.507612" rms="0.075879"/>
+				</waveblock>
+				<waveblock start="942080">
+					<simpleblockfile filename="eff223d2.au" len="262144" min="-0.536243" max="0.524922" rms="0.073724"/>
+				</waveblock>
+				<waveblock start="1204224">
+					<simpleblockfile filename="eff22ed4.au" len="262144" min="-0.578275" max="0.470921" rms="0.034935"/>
+				</waveblock>
+				<waveblock start="1466368">
+					<simpleblockfile filename="eff225af.au" len="262144" min="-0.64619" max="0.592405" rms="0.074605"/>
+				</waveblock>
+				<waveblock start="1728512">
+					<simpleblockfile filename="eff227d0.au" len="262144" min="-0.579459" max="0.474836" rms="0.063558"/>
+				</waveblock>
+				<waveblock start="1990656">
+					<simpleblockfile filename="eff22d0b.au" len="262144" min="-0.519319" max="0.490963" rms="0.080202"/>
+				</waveblock>
+				<waveblock start="2252800">
+					<simpleblockfile filename="eff221bf.au" len="262144" min="-0.794773" max="0.80907" rms="0.082227"/>
+				</waveblock>
+				<waveblock start="2514944">
+					<simpleblockfile filename="eff228e9.au" len="262144" min="-0.563005" max="0.50722" rms="0.088682"/>
+				</waveblock>
+				<waveblock start="2777088">
+					<simpleblockfile filename="eff2246d.au" len="262144" min="-0.545552" max="0.404153" rms="0.066407"/>
+				</waveblock>
+				<waveblock start="3039232">
+					<simpleblockfile filename="eff22921.au" len="262144" min="-0.598883" max="0.47661" rms="0.065742"/>
+				</waveblock>
+				<waveblock start="3301376">
+					<simpleblockfile filename="eff224ab.au" len="262144" min="-0.494942" max="0.370991" rms="0.065582"/>
+				</waveblock>
+				<waveblock start="3563520">
+					<simpleblockfile filename="eff2211a.au" len="262144" min="-0.648526" max="0.49174" rms="0.096656"/>
+				</waveblock>
+				<waveblock start="3825664">
+					<simpleblockfile filename="eff2257f.au" len="262144" min="-0.6219" max="0.53755" rms="0.075225"/>
+				</waveblock>
+				<waveblock start="4087808">
+					<simpleblockfile filename="eff22891.au" len="262144" min="-0.480687" max="0.375222" rms="0.07402"/>
+				</waveblock>
+				<waveblock start="4349952">
+					<simpleblockfile filename="eff2274b.au" len="262144" min="-0.585842" max="0.497587" rms="0.08169"/>
+				</waveblock>
+				<waveblock start="4612096">
+					<simpleblockfile filename="eff22987.au" len="262144" min="-0.635644" max="0.552666" rms="0.097022"/>
+				</waveblock>
+				<waveblock start="4874240">
+					<simpleblockfile filename="eff223f5.au" len="262144" min="-0.767263" max="0.668234" rms="0.095645"/>
+				</waveblock>
+				<waveblock start="5136384">
+					<simpleblockfile filename="eff22fb3.au" len="262144" min="-0.60749" max="0.513805" rms="0.065442"/>
+				</waveblock>
+				<waveblock start="5398528">
+					<simpleblockfile filename="eff22dde.au" len="262144" min="-0.507325" max="0.357338" rms="0.082696"/>
+				</waveblock>
+				<waveblock start="5660672">
+					<simpleblockfile filename="eff2220c.au" len="262144" min="-0.799693" max="0.557875" rms="0.093626"/>
+				</waveblock>
+				<waveblock start="5922816">
+					<simpleblockfile filename="eff22598.au" len="262144" min="-0.531653" max="0.47263" rms="0.046003"/>
+				</waveblock>
+				<waveblock start="6184960">
+					<simpleblockfile filename="eff2290c.au" len="262144" min="-0.63758" max="0.61546" rms="0.078278"/>
+				</waveblock>
+				<waveblock start="6447104">
+					<simpleblockfile filename="eff221dc.au" len="262144" min="-0.891251" max="0.60513" rms="0.091193"/>
+				</waveblock>
+				<waveblock start="6709248">
+					<simpleblockfile filename="eff22755.au" len="262144" min="-0.503408" max="0.463496" rms="0.073838"/>
+				</waveblock>
+				<waveblock start="6971392">
+					<simpleblockfile filename="eff22869.au" len="262144" min="-0.730983" max="0.77145" rms="0.096037"/>
+				</waveblock>
+				<waveblock start="7233536">
+					<simpleblockfile filename="eff22e4c.au" len="262144" min="-0.86489" max="0.83943" rms="0.107309"/>
+				</waveblock>
+				<waveblock start="7495680">
+					<simpleblockfile filename="eff2229c.au" len="157696" min="-0.734667" max="0.546479" rms="0.076267"/>
+				</waveblock>
+				<waveblock start="7653376">
+					<simpleblockfile filename="eff22b54.au" len="157696" min="-0.005085" max="0.004751" rms="0.000568"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
 	</wavetrack>
-	<wavetrack name="Acknowledgements" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Wijzigingen t.o.v. 2017" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="2246.15909281" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8914944">
+				<waveblock start="0">
+					<simpleblockfile filename="eff22fd1.au" len="186368" min="-0.808425" max="0.732397" rms="0.080575"/>
+				</waveblock>
+				<waveblock start="186368">
+					<simpleblockfile filename="eff22b4d.au" len="262144" min="-0.408633" max="0.443774" rms="0.05357"/>
+				</waveblock>
+				<waveblock start="448512">
+					<simpleblockfile filename="eff229f7.au" len="262144" min="-0.586159" max="0.459357" rms="0.065608"/>
+				</waveblock>
+				<waveblock start="710656">
+					<simpleblockfile filename="eff22a84.au" len="262144" min="-0.489721" max="0.46223" rms="0.071067"/>
+				</waveblock>
+				<waveblock start="972800">
+					<simpleblockfile filename="eff227a0.au" len="262144" min="-0.562421" max="0.465497" rms="0.061735"/>
+				</waveblock>
+				<waveblock start="1234944">
+					<simpleblockfile filename="eff227e1.au" len="262144" min="-0.611483" max="0.690337" rms="0.061629"/>
+				</waveblock>
+				<waveblock start="1497088">
+					<simpleblockfile filename="eff22946.au" len="262144" min="-0.756482" max="0.57599" rms="0.058538"/>
+				</waveblock>
+				<waveblock start="1759232">
+					<simpleblockfile filename="eff223ce.au" len="262144" min="-0.391635" max="0.341492" rms="0.045326"/>
+				</waveblock>
+				<waveblock start="2021376">
+					<simpleblockfile filename="eff22f38.au" len="262144" min="-0.459149" max="0.457362" rms="0.055768"/>
+				</waveblock>
+				<waveblock start="2283520">
+					<simpleblockfile filename="eff225de.au" len="262144" min="-0.517911" max="0.430391" rms="0.070059"/>
+				</waveblock>
+				<waveblock start="2545664">
+					<simpleblockfile filename="eff2285a.au" len="262144" min="-0.41837" max="0.363895" rms="0.062437"/>
+				</waveblock>
+				<waveblock start="2807808">
+					<simpleblockfile filename="eff22d83.au" len="262144" min="-0.441662" max="0.369586" rms="0.062814"/>
+				</waveblock>
+				<waveblock start="3069952">
+					<simpleblockfile filename="eff22d71.au" len="156672" min="-0.35871" max="0.268757" rms="0.028237"/>
+				</waveblock>
+				<waveblock start="3226624">
+					<simpleblockfile filename="eff2234b.au" len="195584" min="-0.604397" max="0.452004" rms="0.062818"/>
+				</waveblock>
+				<waveblock start="3422208">
+					<simpleblockfile filename="eff2250e.au" len="262144" min="-0.710265" max="0.59542" rms="0.064581"/>
+				</waveblock>
+				<waveblock start="3684352">
+					<simpleblockfile filename="eff2248c.au" len="262144" min="-0.68014" max="0.640072" rms="0.064232"/>
+				</waveblock>
+				<waveblock start="3946496">
+					<simpleblockfile filename="eff22aba.au" len="262144" min="-0.491049" max="0.404711" rms="0.047407"/>
+				</waveblock>
+				<waveblock start="4208640">
+					<simpleblockfile filename="eff22705.au" len="262144" min="-0.386549" max="0.290816" rms="0.059296"/>
+				</waveblock>
+				<waveblock start="4470784">
+					<simpleblockfile filename="eff22cda.au" len="262144" min="-0.474807" max="0.438804" rms="0.05706"/>
+				</waveblock>
+				<waveblock start="4732928">
+					<simpleblockfile filename="eff2258c.au" len="262144" min="-0.355388" max="0.282957" rms="0.049744"/>
+				</waveblock>
+				<waveblock start="4995072">
+					<simpleblockfile filename="eff224bd.au" len="262144" min="-0.586" max="0.451731" rms="0.071291"/>
+				</waveblock>
+				<waveblock start="5257216">
+					<simpleblockfile filename="eff228cb.au" len="262144" min="-0.416756" max="0.301565" rms="0.059915"/>
+				</waveblock>
+				<waveblock start="5519360">
+					<simpleblockfile filename="eff22bf4.au" len="262144" min="-0.53881" max="0.445475" rms="0.058859"/>
+				</waveblock>
+				<waveblock start="5781504">
+					<simpleblockfile filename="eff2224a.au" len="262144" min="-0.28337" max="0.325506" rms="0.033003"/>
+				</waveblock>
+				<waveblock start="6043648">
+					<simpleblockfile filename="eff222b0.au" len="262144" min="-0.668615" max="0.470702" rms="0.068262"/>
+				</waveblock>
+				<waveblock start="6305792">
+					<simpleblockfile filename="eff22bb3.au" len="262144" min="-0.655833" max="0.50833" rms="0.083878"/>
+				</waveblock>
+				<waveblock start="6567936">
+					<simpleblockfile filename="eff2244f.au" len="237568" min="-0.460713" max="0.517173" rms="0.066802"/>
+				</waveblock>
+				<waveblock start="6805504">
+					<simpleblockfile filename="eff227c2.au" len="262144" min="-0.75681" max="0.891251" rms="0.072794"/>
+				</waveblock>
+				<waveblock start="7067648">
+					<simpleblockfile filename="eff225e2.au" len="262144" min="-0.388682" max="0.268431" rms="0.042031"/>
+				</waveblock>
+				<waveblock start="7329792">
+					<simpleblockfile filename="eff22b2b.au" len="262144" min="-0.483432" max="0.373349" rms="0.062288"/>
+				</waveblock>
+				<waveblock start="7591936">
+					<simpleblockfile filename="eff22d4d.au" len="262144" min="-0.575572" max="0.621728" rms="0.068543"/>
+				</waveblock>
+				<waveblock start="7854080">
+					<simpleblockfile filename="eff226a3.au" len="262144" min="-0.595041" max="0.475772" rms="0.064257"/>
+				</waveblock>
+				<waveblock start="8116224">
+					<simpleblockfile filename="eff22cb0.au" len="262144" min="-0.651125" max="0.460556" rms="0.081434"/>
+				</waveblock>
+				<waveblock start="8378368">
+					<simpleblockfile filename="eff2214e.au" len="262144" min="-0.889857" max="0.48824" rms="0.071611"/>
+				</waveblock>
+				<waveblock start="8640512">
+					<simpleblockfile filename="eff225e9.au" len="137216" min="-0.389847" max="0.302115" rms="0.058494"/>
+				</waveblock>
+				<waveblock start="8777728">
+					<simpleblockfile filename="eff22ea0.au" len="137216" min="-0.250614" max="0.191692" rms="0.024686"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Creative Commons vermelding afsluitend (NL &amp; EN)" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="0"/>
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="110795163">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="10747904">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11010048">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11272192">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11534336">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="11796480">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12058624">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12320768">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12582912">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="12845056">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13107200">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13369344">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13631488">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="13893632">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14155776">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14417920">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14680064">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="14942208">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15204352">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15466496">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15728640">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="15990784">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="16252928">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="16515072">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="16777216">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17039360">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17301504">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17563648">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="17825792">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18087936">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18350080">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18612224">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="18874368">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19136512">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19398656">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19660800">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="19922944">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20185088">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20447232">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20709376">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="20971520">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="21233664">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="21495808">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="21757952">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22020096">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22282240">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22544384">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="22806528">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23068672">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23330816">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23592960">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="23855104">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24117248">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24379392">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24641536">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="24903680">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25165824">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25427968">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25690112">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="25952256">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="26214400">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="26476544">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="26738688">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27000832">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27262976">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27525120">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="27787264">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28049408">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28311552">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28573696">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="28835840">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29097984">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29360128">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29622272">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="29884416">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30146560">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30408704">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30670848">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="30932992">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31195136">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31457280">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31719424">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="31981568">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="32243712">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="32505856">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="32768000">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33030144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33292288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33554432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="33816576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34078720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34340864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34603008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="34865152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35127296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35389440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35651584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="35913728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36175872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36438016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36700160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="36962304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="37224448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="37486592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="37748736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38010880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38273024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38535168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="38797312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39059456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39321600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39583744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="39845888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40108032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40370176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40632320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="40894464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41156608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41418752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41680896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="41943040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42205184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42467328">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42729472">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="42991616">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="43253760">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="43515904">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="43778048">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44040192">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44302336">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44564480">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="44826624">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45088768">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45350912">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45613056">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="45875200">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46137344">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46399488">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46661632">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="46923776">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47185920">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47448064">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47710208">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="47972352">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="48234496">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="48496640">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="48758784">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49020928">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49283072">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49545216">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="49807360">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50069504">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50331648">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50593792">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="50855936">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51118080">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51380224">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51642368">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="51904512">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52166656">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52428800">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52690944">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="52953088">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="53215232">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="53477376">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="53739520">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54001664">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54263808">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54525952">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="54788096">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55050240">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55312384">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55574528">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="55836672">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56098816">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56360960">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56623104">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="56885248">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57147392">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57409536">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57671680">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="57933824">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58195968">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58458112">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58720256">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="58982400">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="59244544">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="59506688">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="59768832">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60030976">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60293120">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60555264">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="60817408">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61079552">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61341696">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61603840">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="61865984">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62128128">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62390272">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62652416">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="62914560">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63176704">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63438848">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63700992">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="63963136">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="64225280">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="64487424">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="64749568">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65011712">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65273856">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65536000">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="65798144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66060288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66322432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66584576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="66846720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67108864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67371008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67633152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="67895296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68157440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68419584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68681728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="68943872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69206016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69468160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69730304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="69992448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="70254592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="70516736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="70778880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="71041024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="71303168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="71565312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="71827456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="72089600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="72351744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="72613888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="72876032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="73138176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="73400320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="73662464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="73924608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="74186752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="74448896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="74711040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="74973184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="75235328">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="75497472">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="75759616">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="76021760">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="76283904">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="76546048">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="76808192">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="77070336">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="77332480">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="77594624">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="77856768">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="78118912">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="78381056">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="78643200">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="78905344">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="79167488">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="79429632">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="79691776">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="79953920">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="80216064">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="80478208">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="80740352">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="81002496">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="81264640">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="81526784">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="81788928">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="82051072">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="82313216">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="82575360">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="82837504">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="83099648">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="83361792">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="83623936">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="83886080">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="84148224">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="84410368">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="84672512">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="84934656">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="85196800">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="85458944">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="85721088">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="85983232">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="86245376">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="86507520">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="86769664">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="87031808">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="87293952">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="87556096">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="87818240">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="88080384">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="88342528">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="88604672">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="88866816">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="89128960">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="89391104">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="89653248">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="89915392">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="90177536">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="90439680">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="90701824">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="90963968">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="91226112">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="91488256">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="91750400">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="92012544">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="92274688">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="92536832">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="92798976">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="93061120">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="93323264">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="93585408">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="93847552">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="94109696">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="94371840">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="94633984">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="94896128">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="95158272">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="95420416">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="95682560">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="95944704">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="96206848">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="96468992">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="96731136">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="96993280">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="97255424">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="97517568">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="97779712">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="98041856">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="98304000">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="98566144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="98828288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="99090432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="99352576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="99614720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="99876864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="100139008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="100401152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="100663296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="100925440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="101187584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="101449728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="101711872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="101974016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="102236160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="102498304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="102760448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="103022592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="103284736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="103546880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="103809024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="104071168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="104333312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="104595456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="104857600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="105119744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="105381888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="105644032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="105906176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="106168320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="106430464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="106692608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="106954752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="107216896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="107479040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="107741184">
+					<simpleblockfile filename="eff22de2.au" len="169984" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="107911168">
+					<simpleblockfile filename="eff22452.au" len="169984" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="108081152">
+					<simpleblockfile filename="eff2231d.au" len="229376" min="-0.235791" max="0.22431" rms="0.039583"/>
+				</waveblock>
+				<waveblock start="108310528">
+					<simpleblockfile filename="eff22523.au" len="131072" min="-0.211036" max="0.22514" rms="0.039898"/>
+				</waveblock>
+				<waveblock start="108441600">
+					<simpleblockfile filename="eff224b9.au" len="131072" min="-0.237802" max="0.179098" rms="0.033736"/>
+				</waveblock>
+				<waveblock start="108572672">
+					<simpleblockfile filename="eff228b2.au" len="131072" min="-0.002698" max="0.002922" rms="0.000241"/>
+				</waveblock>
+				<waveblock start="108703744">
+					<simpleblockfile filename="eff22ef3.au" len="131072" min="-0.305281" max="0.286357" rms="0.044598"/>
+				</waveblock>
+				<waveblock start="108834816">
+					<simpleblockfile filename="eff223d5.au" len="131072" min="-0.409565" max="0.378561" rms="0.056003"/>
+				</waveblock>
+				<waveblock start="108965888">
+					<simpleblockfile filename="eff2214b.au" len="131072" min="-0.250719" max="0.273561" rms="0.039086"/>
+				</waveblock>
+				<waveblock start="109096960">
+					<simpleblockfile filename="eff225d4.au" len="249856" min="-0.32754" max="0.282877" rms="0.041813"/>
+				</waveblock>
+				<waveblock start="109346816">
+					<simpleblockfile filename="eff22356.au" len="143360" min="-0.383373" max="0.421691" rms="0.046346"/>
+				</waveblock>
+				<waveblock start="109490176">
+					<simpleblockfile filename="eff22975.au" len="143360" min="-0.230014" max="0.208753" rms="0.04742"/>
+				</waveblock>
+				<waveblock start="109633536">
+					<simpleblockfile filename="eff221f6.au" len="131072" min="-0.251334" max="0.188511" rms="0.045734"/>
+				</waveblock>
+				<waveblock start="109764608">
+					<simpleblockfile filename="eff22874.au" len="131072" min="-0.383373" max="0.421691" rms="0.048"/>
+				</waveblock>
+				<waveblock start="109895680">
+					<simpleblockfile filename="eff227dd.au" len="131072" min="-0.205556" max="0.166918" rms="0.026416"/>
+				</waveblock>
+				<waveblock start="110026752">
+					<simpleblockfile filename="eff22948.au" len="131072" min="-0.419166" max="0.392374" rms="0.069248"/>
+				</waveblock>
+				<waveblock start="110157824">
+					<simpleblockfile filename="eff225a9.au" len="131072" min="-0.444869" max="0.392175" rms="0.08293"/>
+				</waveblock>
+				<waveblock start="110288896">
+					<simpleblockfile filename="eff2230d.au" len="131072" min="-0.306342" max="0.274169" rms="0.060164"/>
+				</waveblock>
+				<waveblock start="110419968">
+					<simpleblockfile filename="eff22c63.au" len="131072" min="-0.295875" max="0.211773" rms="0.026939"/>
+				</waveblock>
+				<waveblock start="110551040">
+					<simpleblockfile filename="eff22ac0.au" len="229376" min="-0.347782" max="0.249651" rms="0.045163"/>
+				</waveblock>
+				<waveblock start="110780416">
+					<simpleblockfile filename="eff221a3.au" len="14747" min="-0.002666" max="0.003223" rms="0.000904"/>
+				</waveblock>
+			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
